@@ -3,6 +3,26 @@
     "data": {
         "result": [
             {
+                "name": "獬豸杯电子数据取证竞赛",
+                "info_confirmed": 1,
+                "mid_join": 0,
+                "link": "www.xiezhicup.cn",
+                "status": "未确定",
+                "is_reg": 1,
+                "limit": 1,
+                "type": "线上Jeopardy解题赛",
+                "reg_time_start": "2025年02月12日 00:00",
+                "reg_time_end": "2025年02月22日 18:00",
+                "comp_time_start": "2025年02月23日 13:00",
+                "comp_time_end": "2025年02月23日 17:00",
+                "organizer": "主办方信息",
+                "contac": {
+                    "QQ群": "1020228969"
+                },
+                "tag": "",
+                "readmore": "第二届獬豸杯电子数据取证竞赛由主办方信息举办，比赛时间为2025年02月23日 13:00至17:00，报名时间为2025年02月12日 00:00至2025年02月22日 18:00，个人赛，QQ群：1020228969。"
+            },
+            {
                 "name": "HGAME 2025",
                 "info_confirmed": 1,
                 "mid_join": 1,
